@@ -9,3 +9,5 @@ IM业务一般分为网络层 网络和业务交合的协议层 和业务层，�
 因此需要自己写网络层
 
 比如收到一段字节流，可以判断前n个字节判断消息类型，再n个字节判断消息body长度，然后读取body长度的消息体去解析，如Read_HeaderType
+
+整体架构图如图：![image](https://github.com/SoulApp/SMSocket/blob/master/SMSocket/tttttt.png）
