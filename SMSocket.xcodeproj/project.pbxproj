@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A82C049E215CD3C1001C4A5F /* WechatIMG99.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A82C049D215CD3C1001C4A5F /* WechatIMG99.jpeg */; };
+		A82C04A0215CD675001C4A5F /* tttttt.png in Resources */ = {isa = PBXBuildFile; fileRef = A82C049F215CD675001C4A5F /* tttttt.png */; };
 		A8476DB4214F94300044A616 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A8476DB3214F94300044A616 /* AppDelegate.m */; };
 		A8476DB7214F94300044A616 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8476DB6214F94300044A616 /* ViewController.m */; };
 		A8476DBA214F94300044A616 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8476DB8214F94300044A616 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		A82C049D215CD3C1001C4A5F /* WechatIMG99.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WechatIMG99.jpeg; sourceTree = "<group>"; };
+		A82C049F215CD675001C4A5F /* tttttt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tttttt.png; sourceTree = "<group>"; };
 		A8476DAF214F942F0044A616 /* SMSocket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SMSocket.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8476DB2214F94300044A616 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A8476DB3214F94300044A616 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				A8476DB3214F94300044A616 /* AppDelegate.m */,
 				A8476DB5214F94300044A616 /* ViewController.h */,
 				A8476DB6214F94300044A616 /* ViewController.m */,
+				A82C049F215CD675001C4A5F /* tttttt.png */,
 				A82C049D215CD3C1001C4A5F /* WechatIMG99.jpeg */,
 				A8476DB8214F94300044A616 /* Main.storyboard */,
 				A8476DBB214F94300044A616 /* Assets.xcassets */,
@@ -249,6 +252,7 @@
 				A8476DBF214F94300044A616 /* LaunchScreen.storyboard in Resources */,
 				A8476DBC214F94300044A616 /* Assets.xcassets in Resources */,
 				A8476DBA214F94300044A616 /* Main.storyboard in Resources */,
+				A82C04A0215CD675001C4A5F /* tttttt.png in Resources */,
 				A82C049E215CD3C1001C4A5F /* WechatIMG99.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
